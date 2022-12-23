@@ -4,7 +4,7 @@
 
 - Muhammad Ammar Faalih Ihsaan (1207050067)
 - Muhammad Ardiansyah ()
-- Muhammad Fadli Naufal Ramdhani ()
+- Muhammad Fadli Naufal Ramdhani (1207050070)
 
 # Youtube Link
 
