@@ -6,6 +6,13 @@
 - Muhammad Ardiansyah ()
 - Muhammad Fadli Naufal Ramdhani (1207050070)
 
+# How To Install and Set Up
+
+1. Prepare Your AndroidStudio
+2. Download this repository
+3. Clone in your AndroidStudio IDE
+4. Run & Debbug with Emulator/your phone
+
 # Youtube Link
 
 https://youtu.be/hjqOtvcFCA8
