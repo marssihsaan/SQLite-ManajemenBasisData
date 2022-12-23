@@ -3,7 +3,7 @@
 # Kelompok 7 Kelas D (Member Of Groups):
 
 - Muhammad Ammar Faalih Ihsaan (1207050067)
-- Muhammad Ardiansyah ()
+- Muhammad Ardiansyah (1207050069)
 - Muhammad Fadli Naufal Ramdhani (1207050070)
 
 # How To Install and Set Up
